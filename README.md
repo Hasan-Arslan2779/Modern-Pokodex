@@ -21,3 +21,6 @@ git clone https://github.com/username/modern-pokedex.git
 
 ##### License
 This project is licensed under the MIT License. For more information, please read the LICENSE file.
+
+###### Gif
+<img src="" alt="">
