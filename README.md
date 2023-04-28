@@ -16,11 +16,11 @@ git clone https://github.com/username/modern-pokedex.git
 ### API
 * This project retrieves data from PokeAPI, which is an open-source Pokemon database provided in the form of a RESTful API. To access PokeAPI, you can use the api.js file located in the project folder. This file contains the necessary JavaScript code to make API queries and process the data.
 
-#### Contributing
+### Contributing
 * This project is open-source and welcomes contributions from everyone. If you would like to contribute, please first create a GitHub account and fork the project repository. Then make your changes and submit a pull request.
 
-##### License
+## License
 This project is licensed under the MIT License. For more information, please read the LICENSE file.
 
-###### Gif
-<img src="" alt="">
+## Gif
+<img src="https://github.com/Hasan-Arslan2779/Modern-Pokodex/blob/master/pokedex.gif" alt="">
